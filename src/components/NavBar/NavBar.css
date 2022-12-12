@@ -17,6 +17,12 @@
 }
 
 @media (max-width: 600px) {
+
+    .navbar-nav{
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    
   .imgMenu {
     display: none;
   }
